@@ -1,2 +1,2 @@
-# cha-webiste
+# cha-website
 GitHub Repo for Cha Family Website
